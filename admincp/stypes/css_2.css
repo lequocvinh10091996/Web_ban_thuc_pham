@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../../image/geometric-seamless-pattern-rhombus-snowflakes-repeating-can-be-used-wallpaper-fills-web-page-background-34131528.jpg);
+}
+
+.wapper{
+	width:1200px;
+	height:auto;
+	border:1px solid #000;
+	margin:auto;
+}
+
+.header{
+	width:100%;
+	height:300px;
+	border:1px solid #000;
+	background-image:url(../../image/dinh-duong-the-hinh.jpg);
+}
+
+.menu{
+	float:right;
+}
+
+
+
+.menu ul li{
+	background:#F90;
+	text-align:center;
+	list-style:none;
+	line-height:40px;
+	border:1px solid #000;
+}
+
+.menu ul li a{
+	text-decoration:none;
+}
+
+
+table{
+	background:#FFF;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:5px 5px #F90;
+}
+
+
+.left{
+	text-align:center;
+	margin-top:10px;
+	float:right;
+}
+
+.right {
+	text-align:center;
+	margin-top:10px;
+	float:left;
+	float:right;
+	margin-right:20px;
+}
+
+
+.right a{
+	text-decoration:none;
+}

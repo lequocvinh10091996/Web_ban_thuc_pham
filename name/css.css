@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../image/54088697-healthy-eating-background-food-photography-different-fruits-and-vegetables-isolated-white-background.jpg);
+	background-repeat:round;
+	margin:0;
+	padding:0;
+	font-faminly:Verdana;
+	font-size:0.9em;
+	font-line:1.5em;
+}
+
+.wrapper{
+	background:#FFF;
+	width:1000px;
+	height:auto;
+	border:1px solid #000;
+	margin:auto;
+}
+
+
+.header{
+	background-image:url(../image/ban_hang.jpg);
+	width:100%;
+	height:300px;
+	border:1px solid #000;
+}
+
+
+.menu{
+	background:#F90;
+	width:100%;
+	height:30px;
+	border:1px solid #000;
+}
+
+.menu ul{
+	padding:0;
+	margin:0;
+	width:100%;
+	height:30px;
+	list-style:none;
+}
+
+.menu ul li{
+	float:left;
+	line-height:30px;
+	margin-left:20px;
+}
+
+.menu ul li a{
+	color:#000;
+	text-decoration:none;
+}
+
+.menu a:hover{
+	color:#F9C;
+}
+
+.content{
+	width:100%;
+	height:auto;
+}
+
+.content a{
+	text-decoration:none;
+}
+
+.left{
+	width:200px;
+	height:400px;
+	border:1px solid #000;
+	float:right;
+	
+	
+}
+.left p{
+	padding:0;
+	margin:0;
+	
+}
+
+.left li{
+	list-style:none;
+}
+
+.left li a{
+	color:#000;
+	text-decoration:none;
+}
+
+.left li a:hover{
+	text-decoration:none;
+}
+
+.left li ul{
+	margin:0;
+	display:none;
+}
+
+.cacsanpham ul{
+	padding:0;
+	margin:0;
+	width:100%;
+	height:auto;
+	list-style:none;
+}
+
+.cacsanpham ul li{
+	border-width:5px;
+}
+
+.cacsanpham ul li a{
+	text-decoration:none;
+	color:#000;
+}
+
+.cacsanpham li a:hover{
+	border:1px solid #000;
+	background:#F3C;
+}
+
+.right{
+	width:790px;
+	height:auto;
+	border:1px solid #000;
+	float:left;
+}
+.right p{
+	padding:0;
+	margin:0;
+}
+.sanphamgioithieu ul{
+	width:100%;
+	list-style:none;
+}
+
+.sanphamgioithieu ul li{
+	margin-top:15px;
+	width:150px;
+	height:auto;
+	text-align:center;
+	float:left;
+	margin-left:20px;
+}
+
+.sanphamgioithieu ul li a{
+	text-decoration:none;
+}
+.clear{
+	clear:both;
+}
+.footer{
+	margin:0;
+	padding:0;
+	width:100%;
+	height:80px;
+	border:1px solid #000;
+}
+.searchform{
+	margin-top:5px;
+	float:right;
+	margin-right:380px;
+}
