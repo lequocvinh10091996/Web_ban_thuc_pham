@@ -8,6 +8,7 @@
 
 <body>
 <div class="wrapper">
+    <h1>hello</h1>
        <?php
 	     include('admincp/modules/config.php');
 	     include('module/header.php');
